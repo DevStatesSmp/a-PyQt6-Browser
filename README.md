@@ -2,7 +2,7 @@
 
 ## Installation
 
-To install the a-PyQt6-Browser, ensure you have Python 3.9 or later installed on your system. Then, clone the repository and install the required dependencies using pip:
+To install the a-PyQt6-Browser, ensure you have Python 3.9 or later installed on your system. Then, clone the repository and install the required dependencies using pip and install PyQt6:
 
 ```bash
 git clone https://github.com/DevStatesSmp/a-PyQt6-Browser.git
